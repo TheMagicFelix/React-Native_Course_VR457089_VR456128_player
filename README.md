@@ -54,4 +54,4 @@ Create your own branch from main, your brach should be named as: `<MATRICOLA>_<P
 Check out your brach and start working on your project :)
 
 ## Any question
-Mail me at: `cristian.turetta@univr.it`
+Mail at: `cristian.turetta@univr.it`
