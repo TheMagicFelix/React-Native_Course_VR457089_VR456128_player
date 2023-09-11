@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531756904425",
+    "project_id": "jp-obesity-dev",
+    "storage_bucket": "jp-obesity-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531756904425:android:dcb8c9653b381b02462578",
+        "android_client_info": {
+          "package_name": "com.jpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531756904425-9eemc8hng921n5m95v72nkr1qhtsh6q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfFpa1L4tHEZ9Ojv88cmUjqwpsKCInuts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531756904425-9eemc8hng921n5m95v72nkr1qhtsh6q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
